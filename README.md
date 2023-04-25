@@ -1,27 +1,27 @@
-![hello](https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47hno35fr5dpjz1xu9l1ys98p5lxwsdz0sg61kqik9&rid=giphy.gif&ct=g)
+# 💫 About Me:
+I'm currently working on T Cube as a full-stack dev.<br>I have completed Master of Computer Applications in University of Madras, Chennai<br>I'm interested in web development and have a basic knowledge about HTML5,CSS3,JS,PHP,PYTHON AND LARAVEL<br>
 
-<h1 align="center">Hi 👋, I'm BARATH ARAVIND K</h1>
-<h3 align="center">A Math undergrad with CS postgrad,</h3>
 
-<img align = "right" alt = "Coding" width=300 height=400 src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Barath Aravind) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aravindkbarath) 
 
-- 🔭 I’m currently studying **Masters of Computer Applications in University of Madras**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aravindkbarath&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aravindkbarath&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindkbarath&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **.py,.html,.C++ and more to come.**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aravindkbarath&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-- 📫 How to reach me **aravindkbarath@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📄 Know about my experiences [https://github.com/Aravindkbarath/Aravindkbarath/blob/main/BarathResume.pdf](https://github.com/Aravindkbarath/Aravindkbarath/blob/main/BarathResume.pdf)
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aravindkbarath3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k.barath aravind" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/barath-aravind-173769227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barath aravind" height="30" width="40" /></a>
-<a href="https://instagram.com/aravindkbarath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aravindkbarath" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aravindkbarath3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="barath aravind" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=aravindkbarath&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aravindkbarath&show_icons=true&locale=en" alt="aravindkbarath" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
